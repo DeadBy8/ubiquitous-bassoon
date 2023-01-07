@@ -16,3 +16,5 @@ if direction == 'Door 3':
  print('You walk through Door 3 there is a exit, you run out the door and you have successfully escaped the maze, congratulations you survived through the escape room :)')
 if direction == 'Door 4':
  print('You walk through Door 4 everything is pitch black and you cannot see anything, you continue walking until you fall into a bottomless pit that never and your stuck there for all eternity :(')
+
+#password puzzle
