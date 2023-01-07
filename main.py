@@ -11,7 +11,7 @@ if direction == 'Door 1':
   print('You walk through Door 1 there you fall into hot lava you have died :(')
 
 if direction == 'Door 2':
-  print('You walk through Door 2 there are a pit of venomous snakes that attack you. Unfortunately you soon succumb to your injuries you have died :(')
+  print('You walk through Door 2 there is a pit of venomous snakes that attack you. Unfortunately, you soon succumb to your injuries you have died :(')
 if direction == 'Door 3':
  print('You walk through Door 3 there is a exit, you run out the door and you have successfully escaped the maze, congratulations you survived through the escape room :)')
 if direction == 'Door 4':
